@@ -1,0 +1,4 @@
+I am a Computer Science student learning backend development.
+I am currently mastering Git, CLI, and version control workflows.
+My goal is to become a cybersecurity specialist.
+
